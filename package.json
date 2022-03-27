@@ -1,0 +1,29 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neveenaburomman/socket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neveenaburomman/socket.io/issues"
+  },
+  "homepage": "https://github.com/neveenaburomman/socket.io#readme",
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.2.0",
+    "snowpack": "^3.8.8",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
